@@ -1,1 +1,1 @@
-https://whispering-reef-93257.herokuapp.com/api/persons
+https://whispering-reef-93257.herokuapp.com/
